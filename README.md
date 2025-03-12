@@ -1,4 +1,4 @@
-# Image Processing Projects
+# **Image and Video Analysis - Assignment 1**
 
 ## 1. Color Detection
 **Question:** Sample project for Color detection
